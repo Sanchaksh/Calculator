@@ -2,6 +2,6 @@
 
 *It has a GUI, that is easy to use.*
 
-It only adds in the commit I will be working on this project. 
+It performs the basic addition, subtration multiplication and division. 
 
 *USES TKINTER LIBRARY*
